@@ -13,6 +13,7 @@ public class keboardScanner {
 		float t=a*b;
 		System.out.print("Hi "+c+",the multiplication of "+a+" and "+b+" is ");
 		System.out.printf("%4.2e",t);
+		
 	}
 
 }
