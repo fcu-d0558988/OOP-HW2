@@ -1,0 +1,14 @@
+package comcontinue;
+
+public class icontinue {
+	public static void main(String[] args){
+		for(int i=0;i<5;i++){
+			if(i<=0||i>3||(i>1&&i<3)){
+				continue;
+			
+			}
+			System.out.println(i);
+		}
+			
+		}
+}
